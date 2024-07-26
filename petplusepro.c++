@@ -47,7 +47,7 @@ float batteryPercentage = 0.0;
 
 // for firebase
 //  Firebase API_KEY
-#define API_KEY "AIzaSyD7F8qnmzZE8vp7eQibAIsFojcYYTfWjwk"
+#define API_KEY "###################"
 // Firebase RTDB URL
 #define DATABASE_URL "pet-plus-pro-00-default-rtdb.firebaseio.com"
 // Authentication via email and password for additional security
